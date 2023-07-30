@@ -1,0 +1,22 @@
+CASES,Death by shooting,Death (by mob action),Death (other than by Shooting),Death (Agg Domestic Violence),Death (Fire out Break),Death (Traffic Accident),Death (Suicide),Death (poisoning),Death (Murder),Att. Murder,Other death not specified above,Embezzlement,Causing Financial Loss,Abuse of Office,Counterfeiting,Forgeries and Uttering of docu'ts,Issuing False Cheques,Bank and other Corporate Frauds,Obtaining by false pretense,Cyber computer crime,Land Frauds,Any other Economic crime,Rape,Defilement,Indecent Assault,Insulting modesty of woman,Incest,Unnatural Offences,Any other sex related offence,Child Neglect,Failing to provide neccessities,Child Desertion,Child Stealing,Child Trafficking,Child Abduction,Child missing,Disappearance,Child Abuse,Infanticide,Abortion,Burglaries,House Breaking,Shop Breaking,Office Breaking,Other Breakings (General),Theft of Motor Vehicles,Theft of Motor Cycle
+LUGALA STATION,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,13,0,0,0,2,6,0,0,0,0,0,11,1,4,1,0,0,0,5,0,0,0,23,4,2,0,0,3,27
+MASANAFU POST,0,0,0,0,0,0,0,0,0,3,0,0,0,0,2,3,0,0,3,0,0,1,1,4,0,0,0,0,0,2,1,0,0,1,0,0,4,0,0,0,14,3,0,0,2,0,2
+WAKASANKE POST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,14,0,0,0,0,1,0,0,0,0,0,2,0,0,0,0,0,0,0,1,0,0,3,3,0,0,0,0,1
+NAMUNGOONA POST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,3,0,0,0,0,0,4,4,1,0,0,0,2,4,0,0,0,17,6,3,0,1,0,12
+NAKULABYE P/POST,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,4,0,0,1,0,2,0,0,0,0,1,0,0,0,0,0,0,0,2,1,0,0,11,3,3,0,0,1,5
+RUBAGA POST,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,0,0,2,0,0,7
+LAKESIDE POST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,2,1,0,0,0,2,0
+NAMIREMBE COMMUNITY POST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,12,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,3,1,0,0,1,4
+MUZAANA POST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,2,0,0,24,1,0,0,0,1,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,1,0,1,1,2,4,1
+KASAATO POST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,0,0,0
+OWINO POST,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,1,0,0,86,0,0,6,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,0
+USAFI STATION,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,46,1,0,5,0,1,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,4,4,0,0,0,4
+OLD  KAMPALA STATION,1,1,0,0,0,10,1,0,2,1,8,0,2,0,2,13,0,0,124,11,4,0,2,7,3,0,0,1,0,3,0,8,2,1,0,9,20,6,0,0,12,5,3,0,1,7,29
+RIVERSIDE POST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,7,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1,1,0,0,0,0,1
+NEW PARK POST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,5,0,0,14,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0
+NAMIREMBE CHURCH P,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,9,0,0,3,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,3,0,0,0,1,5
+KAWAALA P/STATION,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,2,0,0,3,1,0,1,1,4,0,0,0,0,0,2,6,2,1,0,0,0,8,2,0,0,29,8,1,0,0,0,18
+KASUBI P/POST,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,6,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,15,4,1,0,1,0,6
+LUNGUJJA,0,0,0,0,0,0,0,0,1,0,0,0,0,0,3,0,0,0,25,4,0,0,0,1,0,0,0,0,0,2,3,2,0,0,2,0,5,0,0,0,22,7,0,0,1,5,24
+WAKALIGA,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,6,2,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,2,0,1,0,10,6,0,0,1,1,0
+MUSAJJA LUMBWA POST,0,0,0,0,0,0,0,0,0,1,0,0,0,0,2,0,0,0,8,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,8,0,1,0,0,0,5
